@@ -7,7 +7,8 @@ import java.util.Scanner;
 public class MetricConversion {
 
     public static void main(String[]args){
-        double inchesEnetry;
+        double Convert;
+        double inchesEntry;
         double centimetersEntry;
 
         Getstuff inches = new Getstuff();
@@ -15,8 +16,11 @@ public class MetricConversion {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("What are the number of inches ");
-        System.out.println("What are the number of centimeters");
+        System.out.println("What are the number of inches >>> ");
+
+        System.out.println("What are the number of centimeters >>>");
+
+
 
     }
 

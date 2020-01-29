@@ -11,6 +11,7 @@ public class Getstuff {
         return celsiusTemp;
     }
 
+
     public void setFahrenheitTemp(double fahrenheit) {
         fahrenheitTemp = fahrenheit;
 
